@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LexiconProj", "LexiconProj\LexiconProj.csproj", "{316E0A0D-845F-4945-8F8F-9C572FE4AFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToB2", "ToB2\ToB2.csproj", "{3B031ABD-BB75-4E96-88FF-390CDB8C7997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316E0A0D-845F-4945-8F8F-9C572FE4AFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316E0A0D-845F-4945-8F8F-9C572FE4AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316E0A0D-845F-4945-8F8F-9C572FE4AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316E0A0D-845F-4945-8F8F-9C572FE4AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B031ABD-BB75-4E96-88FF-390CDB8C7997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B031ABD-BB75-4E96-88FF-390CDB8C7997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B031ABD-BB75-4E96-88FF-390CDB8C7997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B031ABD-BB75-4E96-88FF-390CDB8C7997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E75A91-9ECB-4A23-8503-B593D64C6790}
+	EndGlobalSection
+EndGlobal
